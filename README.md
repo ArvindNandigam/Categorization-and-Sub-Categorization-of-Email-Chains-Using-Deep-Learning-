@@ -3,7 +3,6 @@
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-ee4c2c)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-orange)](https://huggingface.co/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This project focuses on classifying and sub-classifying enterprise email chains using deep learning techniques. Built during an internship at **FLEX**, the system combines **data augmentation**, **transformer-based models**, and **knowledge distillation** to create a lightweight, accurate, and efficient classification pipeline.
 
